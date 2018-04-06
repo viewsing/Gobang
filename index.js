@@ -115,7 +115,9 @@ const Dialog = {
     }
 }
 
-
+/**
+ * 全局变量设置 
+ */
 //玩家设置
 const Players = {
     player1: {
