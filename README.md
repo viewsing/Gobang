@@ -1,6 +1,8 @@
 # Gobang
 原生js + canvas实现的五子棋
 
+预览地址：[118.24.24.30](118.24.24.30)
+
 ### 代码结构
 1. EventTarget是一个简单的事件系统，后面的代码依赖此模块
 ![](http://ww1.sinaimg.cn/mw690/8922edaegy1fq32s3yhnjj20h50h4abe.jpg)
